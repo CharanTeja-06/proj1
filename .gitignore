@@ -1,0 +1,30 @@
+
+# Python environments
+.venv/
+venv/
+env/
+
+# Dataset - do not upload
+dataset/
+datasets/
+data/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE and local configuration
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+temp/
+tmp/
+
+# TensorFlow checkpoints and training outputs
+logs/
+checkpoints/
